@@ -1,0 +1,46 @@
+target/
+*/.settings/
+ws-stubs/bin/
+ws-stubs/ws-stubs/
+*.log
+*/.bpmn/
+.metadata/
+data-fetch/activemq-data/
+.mvn
+/tools/*.html
+/rule-testing/reports/*.html
+
+HELP.md
+/target
+*/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+.mvn/
+mvnw
+mvnw.cmd
+
+### OS X ###
+.DS_Store
