@@ -7,7 +7,6 @@ class HelloWorldShould {
 
     @Test
     void name() {
-        assertThat(true).isEqualTo(true);
-
+        assertThat(true).isTrue();
     }
 }
